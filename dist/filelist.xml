@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <file name="app.js" hash="170823714" size="286" offset="28">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/app.js</file>
+    <file name="app.json" hash="2338074733" size="280" offset="316">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/app.json</file>
+    <file name="modules/touch.js" hash="498371308" size="4343" offset="596">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/modules/touch.js</file>
+    <file name="pages/page1/page1.js" hash="2650839397" size="1517" offset="4940">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/pages/page1/page1.js</file>
+    <file name="pages/page1/page1.xml" hash="3662816903" size="2065" offset="6460">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/pages/page1/page1.xml</file>
+    <file name="images/app.png" hash="1304487197" size="2024" offset="8528">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/res/images/app.png</file>
+    <file name="images/scrollbar_handle_horizontal.9.png" hash="1583426245" size="314" offset="10552">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/res/images/scrollbar_handle_horizontal.9.png</file>
+    <file name="images/scrollbar_handle_vertical.9.png" hash="3242514683" size="314" offset="10868">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/res/images/scrollbar_handle_vertical.9.png</file>
+    <file name="values/strings.bin" hash="3192282338" size="51" offset="11184">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/ART_Badge_info/res/values/strings.bin</file>
+    <file name="default" hash="3700132857" size="358" offset="11236">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_info/dist/default.bin</file>
+</resources>

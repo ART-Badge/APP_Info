@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rtgui version="1.0">
+<class>Page</class>
+<widget class="Page" bindtouch="onPageTouch" name="page1">
+<public>
+<property name="background">255, 255, 255, 255</property>
+</public>
+<widgets>
+<widget name="label1" class="label">
+<public>
+<property name="rect">70, 31, 100, 25</property>
+<property name="align">HORIZONTAL | VERTICAL</property>
+<property name="background">0, 212, 208, 200</property>
+<property name="font">/system/fonts/hyqihei-55j.ttf, 25</property>
+</public>
+<property name="text">使用方法</property>
+</widget>
+<widget name="label2" class="label">
+<public>
+<property name="rect">0, 80, 240, 25</property>
+<property name="align">HORIZONTAL | VERTICAL</property>
+<property name="background">0, 212, 208, 200</property>
+<property name="font">/system/fonts/hyqihei-55j.ttf, 20</property>
+</public>
+<property name="text">在APP列表中进入蓝</property>
+</widget>
+<widget name="label3" class="label">
+<public>
+<property name="rect">0, 110, 240, 25</property>
+<property name="align">HORIZONTAL | VERTICAL</property>
+<property name="background">0, 212, 208, 200</property>
+<property name="font">/system/fonts/hyqihei-55j.ttf, 20</property>
+</public>
+<property name="text">牙传输助手，打开微</property>
+</widget>
+<widget name="label4" class="label">
+<public>
+<property name="rect">0, 140, 240, 25</property>
+<property name="align">HORIZONTAL | VERTICAL</property>
+<property name="background">0, 212, 208, 200</property>
+<property name="font">/system/fonts/hyqihei-55j.ttf, 20</property>
+</public>
+<property name="text">信小程序扫码连接 ，</property>
+</widget>
+<widget name="label5" class="label">
+<public>
+<property name="rect">0, 170, 240, 25</property>
+<property name="align">HORIZONTAL | VERTICAL</property>
+<property name="background">0, 212, 208, 200</property>
+<property name="font">/system/fonts/hyqihei-55j.ttf, 20</property>
+</public>
+<property name="text">可更新个人信息。</property>
+</widget>
+</widgets>
+</widget>
+</rtgui>
